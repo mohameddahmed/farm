@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5dda7bc1d09fe554fbae5cb7ba16bb52
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tomatoBunchPrefab: {fileID: 5610022010871323879, guid: 89db9bc6a6b56ce4ba41ec46364fd52a, type: 3}
+  - waterCanHandler: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
